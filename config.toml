@@ -1,0 +1,20 @@
+baseURL = "http://hesiyun.com/"
+languageCode = "en-us"
+title = "Welcome to Siyun's Outer Space Station"
+theme = "kraiklyn"
+
+[params]
+externalTitle = "Home"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[[menu.shortcuts]]
+name = "Github"
+url = "https://github.com/Franceshe"
+weight = 20
+
+[[menu.shortcuts]]
+name = "Photography"
+url = "https://franceshe2.wordpress.com/"
+weight = 20
