@@ -1,7 +1,7 @@
 baseURL = "http://hesiyun.com/"
 languageCode = "en-us"
 title = "Welcome to Siyun's Outer Space Station"
-theme = "kraiklyn"
+theme = "Siyun He"
 
 [params]
 externalTitle = "Home"
